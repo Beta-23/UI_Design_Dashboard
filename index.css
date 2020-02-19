@@ -11,13 +11,13 @@ body {
     height: 100vh;
     color: white;
     font-family: 'Nunito';
-    grid-gap: .5em;
+    grid-gap: 2.5em;
 }
 sidebar {
     background: #1D3154;
 }
 .content {
-    background: #6C22FF;
+    background: #0044B9;
     padding: .5em;
     width: 50%;
     margin-right: 2em;
